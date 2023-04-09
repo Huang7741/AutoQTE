@@ -1,24 +1,23 @@
-# DBDEazyQTE
-A simple script for DeadByDaylight that can help you pass the QTE check automatically 
+# DBDAUTOQTE
+一个简单的 DeadByDaylight 脚本，可以帮助您自动通过 QTE 检查 
 
 # Usage
-The program use hotkeys to control the functions. You can use them to apply in different scenarios.
+该程序使用热键来控制功能。您可以使用它们来应用于不同的场景。
 
 ## Hotkeys
-Press `3` : switch to repairing QTE  
-Press `4` : switch to healing QTE  
-Press `5` : switch to wiggle QTE  
-Press `6` : switch on/off the Hyperfocus perk.  
+Press `3` : 切换到修复 QTE
+Press `4` : 切换到治疗 QTE  
+Press `5` : 切换到摆动 QTE  
+Press `6` : 打开/关闭 Hyperfocus perk。 
 
-Press `caps lock` or `F1` : pause/resume the program.   
-> Tips: you might need `F1` when you need to type something with the program running in the background   
+Press `caps lock` or `F1` : 暂停/恢复程序。.   
+> Tips: you might need `F1` 当您需要在后台运行的程序中键入内容时，您可能需要   
 
-Press `=`/`-` : increase/decrease the delay. Eg: if it hits earlier than shoud be , you shoud press `+`  
+Press `=`/`-` : 增加/减少延迟. 例如: 如果它早于命中，你应该按 `+`  
 
 ## Hyperfocus
-Pressing `3` or `4` will reset the Hyperfocus tokens to 0. Every time you use this perk from 0 token or maybe the program misses the great Skill Check, you should press `3` or `4` to reset the tokens.  
+Pressing `3` or `4` 会将标记重置为 0。每次您从 0 标记使用程序可能错过了很棒的技能检查时，您应该按 `3` or `4` 重置.  
 
 
 ## Merciless Storm  
-This program will automatically detect the Merciless Storm Perk and counter it when you are repairing generators. Be aware that it will be too late to hit the next Merciless Storm QTE if your CPU is not fast enough, because the time gap between two Merciless Storm QTE is very short.
-
+该程序将自动检测无情风暴 Perk 并在您修理发电机时对其进行反击。注意，如果你的CPU不够快，再打下一个无情风暴QTE就来不及了，因为两个无情风暴QTE之间的时间间隔很短。
